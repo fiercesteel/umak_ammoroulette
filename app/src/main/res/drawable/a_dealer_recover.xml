@@ -1,0 +1,17 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/b_dealer_recover_01" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_02" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_03" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_04" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_05" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_06" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_07" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_08" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_09" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_10" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_11" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_12" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_13" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_14" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_recover_15" android:duration="50"/>
+</animation-list>

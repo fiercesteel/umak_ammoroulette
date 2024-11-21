@@ -1,0 +1,17 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/b_idle_01" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_02" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_03" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_04" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_05" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_06" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_07" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_08" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_09" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_10" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_11" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_12" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_13" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_14" android:duration="50"/>
+    <item android:drawable="@drawable/b_idle_15" android:duration="50"/>
+</animation-list>

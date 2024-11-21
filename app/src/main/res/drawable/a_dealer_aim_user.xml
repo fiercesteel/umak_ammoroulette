@@ -1,0 +1,17 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/b_dealer_aim_user_01" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_02" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_03" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_04" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_05" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_06" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_07" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_08" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_09" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_10" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_11" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_12" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_13" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_14" android:duration="50"/>
+    <item android:drawable="@drawable/b_dealer_aim_user_15" android:duration="50"/>
+</animation-list>

@@ -1,0 +1,17 @@
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android" >
+    <item android:drawable="@drawable/b_start_01" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_02" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_03" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_04" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_05" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_06" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_07" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_08" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_09" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_10" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_11" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_12" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_13" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_14" android:duration="50"/>
+    <item android:drawable="@drawable/b_start_15" android:duration="50"/>
+</animation-list>

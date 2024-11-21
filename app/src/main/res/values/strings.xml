@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Ammo Roulette</string>
+
+    <string-array name="captions">
+        <item>Please Sign this Waiver</item>
+        <item>live round(s).</item>
+        <item>blank(s).</item>
+        <item>i insert the shells in an unknown order.</item>
+    </string-array>
+
+    <string-array name="desc">
+        <item>shooting yourself with a blank skips the dealers turn</item>
+    </string-array>
+
+    <string name="win"> WINS!</string>
+    <string name="lose">YOU LOSE!</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
